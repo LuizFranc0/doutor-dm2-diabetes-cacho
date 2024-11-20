@@ -1,6 +1,6 @@
 # Dependências de pacotes
-/node_modules/
-
+/node_modules
+/packages
 # Arquivos de build
 /build/
 dist/
@@ -33,9 +33,6 @@ yarn.lock
 
 # Arquivos de teste de coverage
 coverage/
-
-# Arquivos do editor de código Visual Studio Code
-.vscode/
 
 # Arquivos de sistema do Windows
 Desktop.ini
