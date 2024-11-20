@@ -1,0 +1,16 @@
+{
+  "title": "Depoimentos",
+  "text": "Na Doutor DM2 Diabetes, celebramos as vitórias de nossos pacientes na remissão da diabetes tipo 2. Com acompanhamento especializado e mudança de hábitos, muitos conseguiram recuperar sua saúde e qualidade de vida. As histórias que compartilhamos aqui são uma prova de que é possível viver sem as limitações da diabetes.",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+  ]
+}
